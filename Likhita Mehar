@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Likhita Mehar Resume</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header id="header">
+        <h1>Likhita Mehar</h1>
+        <hr>
+        <h3>Data Analyst | Project Manager</h3>
+    </header>
+    <main class="container">
+        <article id="mainLeft">
+            <section>
+                <h3>Contact</h3>
+                <img src="https://th.bing.com/th/id/R.3ea5d09ed6d30dbf6f1f4871e5e4c788?rik=0iGQR9DRLKii1w&riu=http%3a%2f%2fpluspng.com%2fimg-png%2femail-icon-png-email-icon-2048.png&ehk=ahnNwHNab9Dq7qF3w%2fPChLDTTN3R5mvMWkD739gMXIg%3d&risl=&pid=ImgRaw&r=0" class="inline-block1" height="40px" width="40px" alt="email me at">
+                <p class="inline-block1"><a href="mailto:likhitamehar30@gmail.com">likhitamehar30@gmail.com</a></p>
+                <br>
+                <img src="https://icon-library.com/images/official-linkedin-icon-png/official-linkedin-icon-png-12.jpg" class="inline-block2" width="40px" height="40px" alt="reach me at">
+                <p class="inline-block2"><a href="https://www.linkedin.com/in/likhita-mehar-0a882127a/">LinkedIn Profile</a></p>
+                <br>
+            </section>
+            <section>
+                <div class="skills">
+                    <h3>Skills</h3>
+                    <p>SQL</p>
+                    <p>Python</p>
+                    <p>Excel</p>
+                    <p>HTML & CSS</p>
+                    <p>Power BI</p>
+                    <p>Communication Skills</p>
+                    <p>Leadership and Management skills</p>
+                    <p>Time Management Skills</p>
+                    <br>
+                </div>
+            </section>
+            <section>
+                <h3>Certifications</h3>
+                <p><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KKZS8AJTDAZQ">Project Management from Coursera</a></p>
+                <p>HTML and CSS - Coursera</p>
+                <br>
+            </section>
+            <section>
+                <div class="languages">
+                    <h3>Languages</h3>
+                    <p>Hindi</p>
+                    <p>Telugu</p>
+                    <p>English</p>
+                </div>
+                <br>
+            </section>
+            <section>
+                <h3>Volunteer Experience</h3>
+                <h4>7 cups Organization— Listener</h4>
+                <small>Present</small>
+                <p>As a Volunteer Listener with 7 Cups of Tea, I provided empathetic support
+                    and active listening to individuals seeking emotional assistance. Through
+                    compassionate engagement, I offered a safe space for individuals to express
+                    their feelings, discuss challenges, and receive guidance. This experience
+                    allowed me to develop strong communication and empathy skills while
+                    contributing to the mental well-being of others within a supportive
+                    community</p>
+                <br>
+                <h4>Project Parwaaz— Administration</h4>
+                <small>Present</small>
+                <p>As a Senior Program Manager with Project Parwaaz, I lead and coordinate
+                    initiatives aimed at empowering underprivileged youth through education
+                    and skill development. My role involved overseeing program planning,
+                    implementation, and evaluation to ensure alignment with organizational
+                    goals and objectives. Through my leadership, I facilitated positive change in
+                    communities by creating opportunities for personal and professional
+                    growth among youth</p>
+            </section>
+        </article>
+        <article id="mainRight">
+            <section>
+                <h2>Work Experience</h2>
+                <h4>Ship Haven Remote — Data Analyst</h4>
+                <small>January 2024 - March 2024</small>
+                <p>During my internship at Ship Haven, I served as a Data Analyst where 
+                    <ul><li>I leveraged analytical techniques to extract insights from large datasets.</li></ul>
+                    <ul><li>Working closely with the data team, I participated in data collection,
+                        cleaning, and analysis processes, contributing to the development of
+                        actionable business intelligence reports.</li></ul>
+                    My internship at Ship Haven
+                    provided me with valuable hands-on experience in data analysis within a
+                    real-world business environment.</p>
+                    <br>
+                    <h4>Think Of It Foundation Remote — Operations manager
+                    </h4>
+                    <small>August 2023 - March 2024
+                    </small>
+                    <p>As an Operations Manager Intern at Think Of It Foundation, 
+                        <ul><li>I actively
+                            contributed to the organization's operational efficiency and effectiveness. In
+                            collaboration with the operations team, I assisted in various aspects of
+                            project management and resource allocation.</li></ul>
+                            <ul><li>My responsibilities included
+                                streamlining processes, optimizing workflow systems, and ensuring
+                                smooth communication across departments.</li></ul>
+                        Through hands-on experience in managing day-to-day operations, I developed practical skills in
+                        problem-solving, decision-making, and project execution. My internship at
+                        Think Of It Foundation provided me with valuable insights into nonprofit
+                        management and operations</p>
+                    <br>
+                    <h4>Excelerate, Virtual— Project Manager</h4>
+                    <small>July 2023 - August 2023</small>
+                    <p>During my internship at Excelerate, I served as a Project Manager Intern,
+                        where
+                        <ul><li>I actively contributed to the planning, execution, and monitoring of a
+                            project.</li></ul>
+                        <ul><li>Working closely with project teams, I assisted in project scheduling,
+                            resource allocation, and progress tracking to ensure timely and successful
+                            project delivery.</li></ul>
+                            <ul><li>Additionally, I supported in risk management, stakeholder
+                                communication, and documentation tasks, gaining valuable hands-on
+                                experience in project management methodologies and tools.</li></ul>
+                        My internship at Excelerate provided me with practical insights into project management
+                        practices and enhanced my skills in leadership, organization, and
+                        problem-solving.</p>
+                        <h2>Education</h2>
+                        <h4>Malla Reddy College of Engineering and Technology,
+                            Hyderabad — Computer Science and information technology</h4>
+                        <sub>November 2022 - April 2026</sub>
+                        <p>I have a CGPA of 9.47 in my college.</p>
+                        <h4>Excellencia Junior College, Hyderabad — MPC</h4>
+                        <small>March 2020 - April 2022</small>
+                        <p>I have scored 97.5 during my intermediate</p>
+                        <h4>St. Andrews High School, Hyderabad — Schooling</h4>
+                        <small>June 2009 - May 2020</small>
+                        <p>I have scored 93% in my school boards</p>
+            </section>
+        </article>
+    </main>
+</body>
+</html>
